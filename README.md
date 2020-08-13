@@ -4,8 +4,8 @@ Desafio - LIV
 
 ## Tecnologias
 
-- [x] Fetch API
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+- Fetch API
+- React.js
+- Styled Components
+- TypeScript
 
